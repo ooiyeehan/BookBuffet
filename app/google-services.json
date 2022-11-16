@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882644494841",
+    "project_id": "amca-6e89e",
+    "storage_bucket": "amca-6e89e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882644494841:android:4d6259f7a911c45f373528",
+        "android_client_info": {
+          "package_name": "com.example.bookbuffet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882644494841-3p9getv8h39lp5dtsl3c168tld5h9ubf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFUjMMClFa-Wb358lEjGVA_ZkMWociecU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882644494841-3p9getv8h39lp5dtsl3c168tld5h9ubf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
